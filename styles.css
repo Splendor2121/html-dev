@@ -1,0 +1,38 @@
+
+    .origin{
+        background-color: whitesmoke;
+        text-align: left;
+        color: purple;
+    }
+    .cities{background-color: yellowgreen; margin: 100px; padding: 10px; height: 300px; width: 100px;
+        position: absolute;  top: 50%; transform: translate(0, -10%)
+    }
+
+    h1 {
+        text-align: center; color: rgb(154, 17, 245);
+    }
+
+    .main-container {
+        display: flex;
+        height: 150px;
+        flex-wrap: wrap;
+        align-content: center;
+        background-color: #006600;
+    }
+    
+    .main-container div {
+        background-color: #f4f4f6;
+        width: 100px;
+        margin: 10px;
+        text-align: center;
+        font-size: 50px;
+    }
+    h2 {
+        text-align:center;
+    }
+    .geeks {
+        font-size:40px;
+        text-align:center;
+        color:#009900;
+        font-weight:bold;
+    }
